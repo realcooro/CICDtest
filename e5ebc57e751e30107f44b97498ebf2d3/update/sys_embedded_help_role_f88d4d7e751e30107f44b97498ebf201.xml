@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_cicddemoapp_publishtoapprepo" name="sn_dd_cicddemoapp_publishtoapprepo">f08d0d7e751e30107f44b97498ebf2fe</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-03 14:35:08</sys_created_on>
+        <sys_id>f88d4d7e751e30107f44b97498ebf201</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f08d0d7e751e30107f44b97498ebf2fe</sys_name>
+        <sys_package display_value="CICD DemoApp" source="x_snc_cicd_demoapp">e5ebc57e751e30107f44b97498ebf2d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD DemoApp">e5ebc57e751e30107f44b97498ebf2d3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f88d4d7e751e30107f44b97498ebf201</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-03 14:35:08</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
